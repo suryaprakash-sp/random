@@ -1,0 +1,6 @@
+.gemini/
+gha-creds-*.json
+
+.idea
+
+.github
