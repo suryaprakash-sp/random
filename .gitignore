@@ -1,6 +1,26 @@
+# AI Assistant folders
 .gemini/
+.claude/
+
+# Credentials
 gha-creds-*.json
 
-.idea
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
 
-.github
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+.cache/
+
+# GitHub workflows (if you don't want to track them)
+.github/
