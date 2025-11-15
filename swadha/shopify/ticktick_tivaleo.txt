@@ -1,0 +1,149 @@
+Tivaleo by Swadha - Shopify Setup Tasks
+
+# Phase 1: Pre-Launch Setup
+
+## Account & Store Configuration
+- Create Shopify account for "Tivaleo by Swadha"
+- Set store name: "Tivaleo"
+- Set up basic store information (address, currency INR, timezone IST)
+- Configure tax settings for India (GST)
+- Set up payment gateways (Razorpay, PayPal, UPI, Cards)
+- Configure shipping zones and rates
+- Set up COD if needed
+
+## Branding & Design
+- Finalize "Tivaleo" branding
+- Choose Shopify theme (modern - Dawn, Sense, Craft)
+- Upload Tivaleo logo
+- Set brand colors (modern, vibrant)
+- Set typography (contemporary)
+- Create favicon
+- Design banner images
+- Set up navigation menu
+
+## Product Setup
+- Create main categories (Rings, Chains, Bracelets, Hair Accessories, Charms, Earrings)
+- Create sub-categories by material (18K Gold Plated, Enamel, Stainless Steel, Oxidized)
+- Create collections (New Arrivals, Best Sellers, Under Rs 500, Trending, Festive, Daily, Party)
+- Prepare product photography (white background, lifestyle, multiple angles, model shots)
+- Write product descriptions (material, size, care, styling)
+- Set up product variants (size, color, material)
+- Add pricing
+- Set inventory quantities
+- Add product tags
+
+## Essential Pages
+- Create About Us page (Tivaleo story)
+- Create Quality Promise page
+- Create Contact Us page
+- Create Shipping & Delivery Policy
+- Create Return & Refund Policy
+- Create Privacy Policy
+- Create Terms of Service
+- Create FAQs page
+- Create Size Guide
+- Create Jewelry Care Guide
+
+## Legal & Compliance
+- Register business (if separate)
+- Update GST registration
+- Set up business bank account
+- Create terms and conditions
+- Set up cookie consent
+
+# Phase 2: Launch Preparation
+
+## Product Organization & Filters
+- Set up smart collections
+- Configure product filters (price, material, category, color, occasion)
+- Create product tags for search
+- Set up related products/recommendations
+- Create bundle/combo offerings
+
+## Testing
+- Test checkout process
+- Test all payment gateways
+- Verify shipping calculations
+- Test filters and search
+- Test on mobile devices
+- Check page load speeds
+- Verify all links work
+- Test email notifications
+
+## Marketing Setup
+- Set up Google Analytics
+- Create Facebook Business Page
+- Create Instagram Business Account
+- Link social media to store
+- Set up Instagram Shopping
+- Set up Facebook Shop
+- Set up email marketing (welcome, new arrivals, back-in-stock, abandoned cart, post-purchase)
+- Plan launch announcement
+- Create influencer outreach list
+
+## SEO & Optimization
+- Write SEO-friendly product titles
+- Add meta descriptions for all pages
+- Optimize images
+- Set up Google Search Console
+- Create sitemap
+- Add schema markup
+- Set up Google Shopping feed
+
+# Phase 3: Post-Launch
+
+## Operations
+- Set up order notification system
+- Create order fulfillment workflow
+- Set up inventory management (low stock alerts, reorder points, supplier contacts)
+- Create customer service templates
+- Plan modern packaging
+- Set up shipment tracking
+- Create returns/exchange process
+
+## Growth & Marketing
+- Launch social media campaigns
+- Collect customer reviews and UGC
+- Create discount codes (first-time, seasonal, flash sales)
+- Set up referral/loyalty program
+- Plan seasonal collections
+- Create content calendar
+- Do influencer collaborations
+- Run targeted ads (Instagram, Facebook)
+- Create lookbooks/style guides
+
+## Special Considerations
+
+### Visual Merchandising
+- Create cohesive brand aesthetic
+- Plan themed photoshoots
+- Create lifestyle content
+- Build "Shop the Look" features
+- Use product videos
+
+### Customer Experience
+- Set up easy returns/exchanges
+- Create detailed size guides
+- Provide material information
+- Add styling suggestions
+- Set up quick customer support
+
+### Inventory Management
+- Track best sellers
+- Manage supplier relationships
+- Plan restock schedules
+- Do seasonal inventory planning
+- Make trend-based buying decisions
+
+### Pricing Strategy
+- Research competitive pricing
+- Create price tiers (Budget Rs 199-499, Mid-range Rs 500-999, Premium Rs 1000+)
+- Create bundle deals
+- Plan seasonal discounts
+
+### Product Curation
+- Do regular market research
+- Collect customer feedback
+- Do seasonal trend analysis
+- Do competitor analysis
+- Maintain supplier relationships

@@ -1,0 +1,38 @@
+Missing Tasks for Tivaleo - Special Considerations Section
+===========================================================
+
+Add these as subtasks under "Special Considerations" in TickTick:
+
+Visual Merchandising:
+- Build "Shop the Look" features
+- Use product videos
+
+Customer Experience:
+- Set up easy returns/exchanges
+- Create detailed size guides
+- Provide material information
+- Add styling suggestions
+- Set up quick customer support
+
+Inventory Management:
+- Track best sellers
+- Manage supplier relationships
+- Plan restock schedules
+- Do seasonal inventory planning
+- Make trend-based buying decisions
+
+Pricing Strategy:
+- Research competitive pricing
+- Create price tiers (Budget Rs 199-499, Mid-range Rs 500-999, Premium Rs 1000+)
+- Create bundle deals
+- Plan seasonal discounts
+
+Product Curation:
+- Do regular market research
+- Collect customer feedback
+- Do seasonal trend analysis
+- Do competitor analysis
+- Maintain supplier relationships
+
+Note: TickTick API hit rate limits after adding 180+ tasks.
+You can add these manually or try again tomorrow when the API quota resets.

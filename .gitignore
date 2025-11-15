@@ -4,6 +4,8 @@
 
 # Credentials
 gha-creds-*.json
+ticktick_token.json
+ticktick_get_token.py
 
 # IDEs
 .idea/
